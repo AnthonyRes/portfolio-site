@@ -1,10 +1,5 @@
-body {
-  background-color: maroon;
-}
-
 .background {
   background-color: #00004d;
-  padding-top: 0.5em;
 }
 
 .title {
@@ -14,14 +9,7 @@ body {
 }
 
 .titleContent {
-  color: white;
-  padding-top: 20%;
-  padding-bottom: 0;
-  margin-bottom: 0;
   font-weight: 300;
-  font-size: 2.5rem;
-  font-stretch: 2em;
-  text-decoration:underline;
 }
 .tag {
   text-align: center;
@@ -33,13 +21,5 @@ body {
   padding-top: 0;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 
 
-}
